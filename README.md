@@ -1,1 +1,1 @@
-The problem that was being solved with the projects in this course was the designing of advising assistance software. I approached the problem by breaking down the big issue into smaller more manageable pieces. Data structures were important for this because we wanted the most efficient data structure to be used for solving the problem. I overcame roadblocks by going through the code one line at a time. The projects in this course greatly expanded the way that I think about designing software and solving problems.
+
